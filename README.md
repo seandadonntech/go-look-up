@@ -3,7 +3,7 @@ A program In golang to get a website ip address
 
 ## USAGE
 ```
-git clone https://github.com/AF-UN/grabriel
+https://github.com/seandadonntech/go-look-up
 ```
 
 ### Install the executable
@@ -14,5 +14,5 @@ npm install -g
 
 ### Run executable
 ```
-grabriel
+go build -o main.exe
 ```
